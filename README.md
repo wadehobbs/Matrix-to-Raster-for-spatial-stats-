@@ -1,4 +1,2 @@
 # data
-testing repo set up
-change
-change2
+Code to convert a standard R matrix to a raster object to perform sptail statistics such as auto-correlation
